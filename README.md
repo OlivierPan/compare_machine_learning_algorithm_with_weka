@@ -1,5 +1,5 @@
 # compare machine learning algorithms with weka on a task of sentiment classification
-1, crawl all the commentaries of the best-seller, Voleur d'ombres de Marc Levy in www.douban.com;
+1, crawl all the commentaries of the best-seller, Voleur d'ombres de Marc Levy at www.douban.com;
 
 (see request_commentaires.py)
 
