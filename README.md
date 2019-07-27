@@ -16,3 +16,5 @@
 5, WEKA test.
 
 6, write the report, quite interesting in fact.
+
+(see rapport_projet_fouille_text.pdf)
