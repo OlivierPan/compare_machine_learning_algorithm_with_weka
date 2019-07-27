@@ -14,3 +14,5 @@
 (see vectorisation_option_chinois_nepaslancer_avec_character_option.py)
 
 5, WEKA test.
+
+6, write the report, quite interesting in fact.
